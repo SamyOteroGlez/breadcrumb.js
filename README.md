@@ -1,5 +1,5 @@
 # breadcrumb.js
-Simple javascript library for breadcrumbs creation based on the url.
+Simple javascript library to create breadcrumbs in a web page based on the site url.
 
  -----------------------------------------------------------------------------
  
