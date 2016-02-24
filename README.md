@@ -33,6 +33,8 @@ How to use:
  -----------------------------------------------------------------------------
  
  Explanation:
+ 
+ breadcrumb.init(container_id_to_render, config)
  	
 	breadcrumb.init(container_id_to_render, config)
  	
