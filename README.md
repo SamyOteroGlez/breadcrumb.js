@@ -1,6 +1,8 @@
 # breadcrumb.js
 Simple javascript library for breadcrumbs creation based on the url.
 
+ -----------------------------------------------------------------------------
+ 
 version: 0.2 
 date: 24 February 2016
 created by: Samy Otero
@@ -60,4 +62,4 @@ How to use:
 		
 		cssStyleGroupContainer, cssStyleTag and cssStyle: Css styles for each container.
 	
-	-----------------------------------------------------------------------------
+ -----------------------------------------------------------------------------
