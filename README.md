@@ -34,7 +34,7 @@ How to use:
  
  Explanation:
  	
-	breadcrumb.init(container_id_to_render, config);
+	breadcrumb.init(container_id_to_render, config)
  	
 	container_id_to_render: Id of the breadcrumbs container.
 		<div id="breadcrumb" class="any_class"></div>
