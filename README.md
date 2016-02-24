@@ -1,12 +1,13 @@
 # breadcrumb.js
 Simple javascript library to create breadcrumbs in a web page based on the site url.
 
- -----------------------------------------------------------------------------
- 
 version: 0.2 
 date: 24 February 2016
 created by: Samy Otero
 gitHub: https://github.com/SamyOteroGlez/breadcrumb.js
+
+ -----------------------------------------------------------------------------
+ 
  
 How to use:
 
