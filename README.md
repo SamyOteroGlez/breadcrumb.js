@@ -40,7 +40,7 @@ How to use:
  		<div id="breadcrumb" class="any_class"></div>
  
  	config: Configuration parameters.
- 		stopLink: Array of actions that you don't want as links.
+ 		stopLink: Array of actions that you don't want to be render as links.
  				stopLink: {
 					edit: 'edit',
 					show: 'show', 
