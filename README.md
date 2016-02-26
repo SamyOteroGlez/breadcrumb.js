@@ -53,9 +53,9 @@ How to use:
 		divider: Divider to show between links in the breadcrumbs. By default takes " ".
 			Home User Create
 
-		groupCountainerTag: Cointainer to group all the links. Could be a list like <ol> or <ul>. Just write ul or 		ol, no need of <>.
+		groupCountainerTag: Cointainer to group all the links. Could be a list like <ol> or <ul>. Just write ul or ol, no need of <>.
 
-		containerTag: Container of each link. Could be <li> if groupCountainerTag is a list tag. Just write li or 			span, no need of <>.
+		containerTag: Container of each link. Could be <li> if groupCountainerTag is a list tag. Just write li or 	span, no need of <>.
 
 		cssStyleGroupContainer, cssStyleTag and cssStyle: Css styles for each container.
 
