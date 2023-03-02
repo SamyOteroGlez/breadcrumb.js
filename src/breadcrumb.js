@@ -140,10 +140,10 @@ var breadcrumb = function(id, config){
 		  cut = url.indexOf(urlDivider);
 
 		  if (cut != -1){
-			breadcrumb[x] = url.slice(0, cut);
+			breadcrumb[x] = decodeURI(url.slice(0, cut));
 			url = url.slice(cut + 1, url.length);
 		  }else{
-			breadcrumb[x] = url;
+			breadcrumb[x] = decodeURI(url);
 			stop = 1;
 		  }
 		  x++;
